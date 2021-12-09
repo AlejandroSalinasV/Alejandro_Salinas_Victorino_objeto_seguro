@@ -1,5 +1,3 @@
-#  Clase: ObjetoSeguro(nombre: str)
-#  Descripción: Creación de un objeto seguro, se recibe el nombre en formato String
 from ecies.utils import generate_eth_key
 from ecies import encrypt, decrypt
 import base64
@@ -16,6 +14,8 @@ def agregar_llave(nombre: str, llave_pub: str):
 def devolver_llave(name: str):
     return LlaveroPublico[name]
 
+#  Clase: ObjetoSeguro(nombre: str)
+#  Descripción: Creación de un objeto seguro, se recibe el nombre en formato String
 
 class ObjetoSeguro:
     def __init__(self, nombre: str):
