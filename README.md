@@ -9,7 +9,7 @@ Tengo algunas dudas con respecto a mi implementación.
 
 3) En el metodo Método: responder(msj: str) -> byte. Descripción: Este método se ejecuta automáticamente al recibir un saludo de otro objeto seguro, el parámetro de entrada es el nombre del objeto al que se responderá. La respuesta deber ser el mensaje recibido, concatenado con el string “MensajeRespuesta”.
 
-Para este metodo considera que se deberia de cifrar el mensaje. Como se menciona es concatenar el mensaje: <saludo descifrado> + <MensajeRespuesta>, ¿es correcto?
+Para este método considere que se deberia de cifrar el mensaje. Como se menciona es concatenar el mensaje: <saludo descifrado> + <MensajeRespuesta>, ¿es correcto?
   Otra cuestión, la descripción del metodo nos dice otra cosa de lo que se tiene escrito, ya que se deberia de enviar el nombre del objeto al que queremos responder, lo cual tiene sentido, entonces sería: responder(nombre: str) ->bytes: 
   O en su defecto implemento responder(nombre: str, mensaje: str) ->bytes:
   
