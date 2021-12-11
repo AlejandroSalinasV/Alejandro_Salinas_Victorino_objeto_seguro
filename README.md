@@ -1,7 +1,10 @@
 # Alejandro_Salinas_Victorino_objeto_seguro
 Python &amp; Linux Proyecto
 
-Tengo algunas dudas con respecto a mi implementación. 
+--- ESTA PRIMERA VERSION DEL PORYECTO DE OBJETO SEGURO SE ENCUENTRA RESULTA Y CONCLUIDA ---
+
+
+// Dudas durante el proyecto -> Tengo algunas dudas con respecto a mi implementación. 
 
 1) Genere un diccionario que es para colocar las llaves publicas de todos los objetos, de momento solo es parte estructural aunque podria ser un obejto. ¿Es valida esta implementación para el cambio de llaves?, o en su defecto, debo de implementar un metodo en clase Objeto seguro.
 
