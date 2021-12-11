@@ -1,0 +1,2 @@
+{'ID': 0, 'MSJ': 'Hola me llamo Alejandro Salinas MensajeRespuesta', 'FECHA aaaa.mm.dd': '2021-12-10', 'HORA HH.MM.SS': '22:19:14'}
+{'ID': 1, 'MSJ': 'Claro que me encuentro bien. Salu2 MensajeRespuesta', 'FECHA aaaa.mm.dd': '2021-12-10', 'HORA HH.MM.SS': '22:19:14'}
