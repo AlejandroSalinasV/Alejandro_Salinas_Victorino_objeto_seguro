@@ -3,8 +3,10 @@ Python &amp; Linux Proyecto
 
 El sigueinte código utiliza el paradigma de programación orientada a objetos, donde se tiene un enlace de comunicación local. Se trata de buscar que dos objetos hagan la comunicación por médio de un canal inseguro, donde estos tenga que cifrar su información para que sea confidencial. Se utilizo el concepto de llave publica para esta implementación. A continuación se menciona un ejemplo basico que se utilizo. 
 
+
 objeto1  = Alejandro
-Objeto2 = Bob
+
+objeto2 = Bob
 
 
 [0] Intercambio de llaves entre objetos
