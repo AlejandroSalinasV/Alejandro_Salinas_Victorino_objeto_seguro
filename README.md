@@ -10,9 +10,14 @@ objeto2 = Bob
 
 
 [0] Intercambio de llaves entre objetos
+
 [1] Alejandro saluda a Bob
+
 [2 & 3]  Bob recibe el saludo de Alejandro, y contesta automaticamente
+
 El mensaje recibido descifrado es:  Hola me llamo Alejandro Salinas
 Respondiendo
+
 [4] Alejandro recibe la respuesta
+
 El mensaje recibido descifrado es:  Hola me llamo Alejandro Salinas MensajeRespuesta
